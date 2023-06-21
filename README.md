@@ -1,5 +1,5 @@
-<h1 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm Sai Teja Goli</h1>
-<h3 align="center">Full Stack Web Developer .</h3>
+<h1 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm Sai Teja Goli 
+<br><br> Full Stack Web Developer</h1>
 <br>
 
 ## 💫 About Me:
