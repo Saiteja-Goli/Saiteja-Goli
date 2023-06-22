@@ -3,7 +3,7 @@
 <br>
 
 ## 💫 About Me:
-- 💬 Ask me about Java, HTML, CSS , JS ,React ,NodeJS , Express, MongoDB .
+- 💬 Ask me about Full Stack Web Development .
 - 😄 Pronouns: He/ His
 - 📫 How to reach me **saitejagoli111@gmail.com**
 
