@@ -3,10 +3,10 @@
 <br>
 
 ## 💫 About Me:
-- 💬 Ask me about Full Stack Web Development .
+- 💬 Ask me about Full Stack Web Development.
 - 😄 Pronouns: He/ His
 - 📫 How to reach me **saitejagoli111@gmail.com**
-- protofolio:[Saiteja-Goli](saiteja-goli.github.io/)
+- portfolio:[Saiteja-Goli](https://saiteja-goli.github.io/)
 
 ## 💻 Tech Stack:
 
