@@ -33,7 +33,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saiteja-Goli&count_private=true&show_icons=true&theme=tokyonight"/>
+<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saiteja-Goli&count_private=true&show_icons=true&theme=tokyonight"/> -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saiteja-Goli&show_icons=true&locale=en&theme=radical"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saiteja-Goli&theme=tokyonight"/>
 </p></br>
