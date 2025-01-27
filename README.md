@@ -1,12 +1,10 @@
 <h1 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm Sai Teja Goli 
-<br><br> Full Stack Web Developer</h1>
+<br><br> MERN Stack Web Developer</h1>
 <br>
 
 ## 💫 About Me:
-- 💬 Ask me about Full Stack Web Development.
 - 😄 Pronouns: He/ His
 - 📫 How to reach me **saitejagoli111@gmail.com**
-- portfolio:[Saiteja-Goli](https://saiteja-goli.github.io) 
 
 ## 💻 Tech Stack:
 
